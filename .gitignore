@@ -1,3 +1,4 @@
 /haydar/*.csv
 /haydar/*.ows
 /haydar/data/
+/haydar/catboost_info/
