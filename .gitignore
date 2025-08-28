@@ -2,3 +2,4 @@
 /haydar/*.ows
 /haydar/data/
 /haydar/catboost_info/
+/haydar/playground/*.csv
