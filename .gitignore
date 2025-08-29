@@ -1,5 +1,6 @@
 /haydar/*.csv
 /haydar/*.ows
+/haydar/*.pkl
 /haydar/data/
 /haydar/catboost_info/
 /haydar/playground/*.csv
