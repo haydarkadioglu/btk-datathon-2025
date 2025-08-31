@@ -5,3 +5,4 @@
 /haydar/catboost_info/
 /haydar/playground/*.csv
 /haydar/playground/*.ows
+/haydar/autogluon_models/
