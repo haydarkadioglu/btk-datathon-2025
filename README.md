@@ -1,4 +1,4 @@
-# BTK25 Data Science Competition Project 🏆
+# BTK Datathon 2025 Data Science Competition Project 🏆
 
 ## 📋 Proje Genel Bakış
 
